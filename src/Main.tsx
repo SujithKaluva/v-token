@@ -131,7 +131,7 @@ function Main() {
           <div className="p-6 bg-white rounded-lg shadow-lg">
             <div>
               <h2 className="text-2xl font-bold mb-10 text-gray-800">
-                🎉 Welcome to AuctionVT!
+                Vickery Auction!
               </h2>
             </div>
 
@@ -155,14 +155,14 @@ function Main() {
               </div>
             )}
 
-            <div className="mt-10">
+            {/* <div className="mt-10">
               <h2 className="text-lg font-medium text-gray-800">
                 📚 How to Get Started?
               </h2>
               <div className="text-base text-gray-700 mt-4 space-y-2">
                 <h3>
                   🌟 <span className="font-medium">Step 1:</span> Head over to
-                  the <span className="kbd kbd-sm">Tokens</span> tab and grab
+                  the <span >Tokens</span> tab and grab
                   some tokens.
                 </h3>
                 <h3>
@@ -193,7 +193,7 @@ function Main() {
                   place your bids!
                 </h3>
               </div>
-            </div>
+            </div> */}
 
             <div className="mt-10">
               
@@ -212,7 +212,7 @@ function Main() {
       <Toaster />
       <div className="navbar bg-base-100">
         <div className="navbar-start">
-          <a className="btn btn-ghost text-xl">auctionsVT</a>
+          <a className="btn btn-ghost text-xl">Vickery Auction</a>
         </div>
 
         <div className="navbar-end">
